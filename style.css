@@ -1,0 +1,226 @@
+* {
+    color: darkolivegreen;
+    border: 1px solid darkolivegreen;
+    font-family: Georgia;
+}
+
+body {
+    background-color: rgb(145, 136, 126);
+    margin: 0px;
+    margin-top: 35px;
+    text-align: center;
+    border: none;
+    margin-bottom: 0px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    background-color: darkolivegreen;
+    font-family: Impact;
+    color: rgb(145, 136, 126);
+    text-align: left;
+}
+
+h1 {
+    border: none;
+    font-size: 100px;
+    position: fixed;
+    text-align: left;
+    margin: auto 0;
+    margin-top: 0px;
+    padding-left: 155px;
+    padding-top: 10px;
+    padding-right: 200px;
+    z-index: 0;
+    display: inline-block;
+    width: 110%;
+    padding-bottom: 20px;
+    left: 0px;
+    top: -10px;
+}
+
+a {
+    font-size: 20px;
+    color: rgb(145, 136, 126);
+}
+
+b {
+    color: rgb(145, 136, 126);
+    border-color: rgb(145, 136, 126);
+}
+
+ion-icon {
+    border: none;
+    font-size: 150px;
+    margin-top: 0;
+    color: rgb(145, 136, 126);
+    z-index: 1;
+    display: inline-block;
+    position: fixed;
+    top: -5px;
+    left: 0px;
+}
+
+li {
+    text-align: left;
+}
+
+#heading1 {
+    margin-top: 150px;
+    padding-bottom: 0px;
+}
+
+#TitleBlock {
+    border: none;
+}
+
+.link {
+    position: fixed;
+    text-align: left;
+    left: 155px;
+    top: 115px;
+}
+
+.LinkList ul {
+    text-align: left;
+    padding-top: 90px;
+    padding-bottom: 0px;
+    display: inline-block;
+    border: none;
+}
+.LinkList li {
+    border: none;
+}
+
+#BenImgDiv {
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#BottomItem {
+    margin-bottom: 5px;
+    border: none;
+}
+
+.reset-style, .reset-style * {
+    all: initial;
+}
+
+.CreationBlock {
+    z-index: 2;
+    display: inline-block;
+    text-align: left;
+    border-top: 2px solid darkolivegreen;
+    border-bottom: 2px solid darkolivegreen;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+.CreationSideImage {
+    float: left;
+    position: relative;
+    width: 29%;
+    border: none;
+}
+
+.CreationText {
+    position: relative;
+    text-align: center;
+    margin: 0 0;
+    border: none;
+}
+
+.Creation {
+    margin: 0 0;
+    padding: 0 0;
+}
+
+h2 {
+    margin: 0 0;
+    padding: 0 0;
+    text-decoration: underline;
+}
+
+ul {
+    margin-bottom: 5;
+    margin-top: 0;
+}
+
+h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+.CreationHeading {
+    position: relative;
+    background-color: rgb(145, 136, 126);
+    color: darkolivegreen;
+    border: none;
+    text-align: center;
+}
+
+.CreationImage {
+    position: relative;
+    display: inline-block;
+    height: 500px;
+    margin-top: 3px;
+}
+
+.Creation {
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    z-index: -2;
+    width: 100%;
+}
+
+#BottomItem {
+    margin-bottom: 0px;
+}
+#BottomItem ul {
+    margin-bottom: 0px;
+}
+
+#Feedback {
+    text-align: left;
+    padding-right: auto;  
+    width: 100%;  
+    margin-bottom: 0px;
+}
+
+#Feedback input.textbox{
+    width: 99.6%;
+}
+
+#message {
+    width: 99.6%;
+    resize: none;
+}
+
+.submit {
+    background: darkolivegreen;
+	color: rgb(145, 136, 126);
+	border-style: outset;
+	border-color: darkolivegreen;
+	height: 25px;
+	width: 50px;
+	font: bold 15px;
+	text-shadow: none;
+    margin-bottom: 0px;
+}
+
+form {
+    margin-bottom: 0px;
+}
+
+#email {
+    color: darkolivegreen;  
+}
+
+
+
+
+
+
