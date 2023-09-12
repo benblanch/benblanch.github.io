@@ -1,2 +1,2 @@
 # benblanch.github.io
-Autobiographical Website by Ben Blanchard
+Autobiographical website and summer 2023 project by Ben Blanchard
